@@ -1,2 +1,2 @@
 # KyberReserveGUI
-Simple website GUI for onboarding new reserve managers
+Simple website GUI to onboard new reserve managers
